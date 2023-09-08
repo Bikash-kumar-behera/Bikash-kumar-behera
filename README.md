@@ -3,15 +3,15 @@
 <img align="right" alt="coding" width="380px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikash-kumar-behera&label=Profile%20views&color=0e75b6&style=flat" alt="bikash-kumar-behera" /> </p>
 
-- 🔭 I’m currently doing my internship on **Call audit automation** and **Home automation using IOT**
+- 🔭 I have done my internship on **Call audit automation from JIO** and **Home automation using IOT from Emertze**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **bikashkumarbehera512@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1as_jVNYB8IdDJwPb9bM5Mdl670kpXo_a/view?usp=sharing](https://drive.google.com/file/d/1as_jVNYB8IdDJwPb9bM5Mdl670kpXo_a/view?usp=sharing)
 
-- ⚡ Fun fact **You are funny**
+- ⚡ Fun fact **I am Looking for a JOB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
